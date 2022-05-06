@@ -1,12 +1,12 @@
 ## Hi there, I'm Samuel 👋
-<a href='https://www.linkedin.com/in/samuel-suther-david/'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.sdsamuel.com/'><img align='left' src="assets/webicon.png" height='18px'/></a>
-<a href='https://www.coursera.org/user/62e2b4a4b3203bcce7e71783187cbba1/'><img align='left' src="assets/coursera.svg" height='18px'/></a>
-<br>
-### 👨‍💻 Introduction:
-I'm a versatile Computer Engineer with experience working on hardware, software, machine learning, big data, edutech, fintech, mobile dev, game dev. I'm constantly looking to work on challenging and complex software problems.
 
-<br>
+<a href='https://www.linkedin.com/in/samuel-suther-david/'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='32px'/></a>
+<a href='https://www.sdsamuel.com/'><img align='left' src="assets/webicon.png" height='32px'/></a>
+<a href='https://www.coursera.org/user/62e2b4a4b3203bcce7e71783187cbba1/'><img align='left' src="assets/coursera.svg" height='32px'/></a>
+
+### 👨‍💻 Introduction:
+
+I'm a versatile Computer Engineer with experience working on hardware, software, machine learning, big data, edutech, fintech, mobile dev, game dev. I'm constantly looking to work on challenging and complex software problems.
 
 ### 📊 Github Stats
 
@@ -21,8 +21,9 @@ I'm a versatile Computer Engineer with experience working on hardware, software,
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://hadoop.apache.org/" target="_blank"> <img align="left" src="assets/hadoop.svg" alt="hadoop" height="42px"/> </a> 
-<a href="https://go.dev/" target="_blank"> <img align="left" src="assets/golang.svg" alt="golang" height="42px"/> </a> 
+
+<a href="https://hadoop.apache.org/" target="_blank"> <img align="left" src="assets/hadoop.svg" alt="hadoop" height="42px"/> </a>
+<a href="https://go.dev/" target="_blank"> <img align="left" src="assets/golang.svg" alt="golang" height="42px"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
