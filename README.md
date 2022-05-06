@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Samuel 👋
+
+<a href='https://www.linkedin.com/in/samuel-suther-david/'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.sdsamuel.com/'><img align='left' src="assets/webicon.png" height='18px'/></a>
+<a href='https://www.coursera.org/user/62e2b4a4b3203bcce7e71783187cbba1/'><img align='left' src="assets/coursera.svg" height='18px'/></a>
 
 <!--
 **Samuel787/Samuel787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
