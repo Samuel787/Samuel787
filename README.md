@@ -18,6 +18,11 @@ I'm a versatile Computer Engineer with experience working on hardware, software,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark" />
 </a>
 
+<a href="https://github.com/Samuel787"> 
+![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark)
+</a>
+
 <br>
 
 ### 🔨 Languages and Tools:
