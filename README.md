@@ -1,9 +1,8 @@
 ## Hi there, I'm Samuel 👋
-
-<hr>
 <a href='https://www.linkedin.com/in/samuel-suther-david/'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.sdsamuel.com/'><img align='left' src="assets/webicon.png" height='18px'/></a>
 <a href='https://www.coursera.org/user/62e2b4a4b3203bcce7e71783187cbba1/'><img align='left' src="assets/coursera.svg" height='18px'/></a>
+<br>
 <br>
 I'm a versatile Computer Engineer with experience working on hardware, software, machine learning, big data, edutech, fintech, mobile dev, game dev. I'm constantly looking to work on challenging and complex software problems.
 
@@ -13,7 +12,7 @@ I'm a versatile Computer Engineer with experience working on hardware, software,
 
 <div>
 <a href="https://github.com/Samuel787">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel787&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=outrun" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel787&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=outrun&hide_rank=true" />
 </a>
 <a href="https://github.com/Samuel787">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=outrun" />
