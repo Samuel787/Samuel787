@@ -11,18 +11,14 @@ I'm a versatile Computer Engineer with experience working on hardware, software,
 
 ### 📊 Github Stats
 
+<div>
 <a href="https://github.com/Samuel787">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel787&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel787&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=outrun" />
 </a>
 <a href="https://github.com/Samuel787">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=outrun" />
 </a>
-
-<a href="https://github.com/Samuel787"> 
-![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel787&layout=compact&hide_border=true&hide=jupyter+notebook,html,css&langs_count=6&theme=dark)
-</a>
-
+</div>
 <br>
 
 ### 🔨 Languages and Tools:
